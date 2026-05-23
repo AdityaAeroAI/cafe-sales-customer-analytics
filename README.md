@@ -69,7 +69,7 @@ Created multiple business-oriented visualizations:
 📁 cafe-sales-customer-analytics
  ┣ 📂Project Report
  ┣ 📂sql query
-
+ ┣ 📂data_analysis_brewbridge_cafe
 ---
 
 ## Author
